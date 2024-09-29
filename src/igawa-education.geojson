@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.1456, 12.1475]
+      },
+      "properties": {
+        "name": "Federal University Dutse",
+        "description": "Leading higher institution in Jigawa State."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.1456, 12.1175]
+      },
+      "properties": {
+        "name": "Government College Birnin Kudu",
+        "description": "Secondary school providing high-quality education to local students."
+      }
+    }
+  ]
+}

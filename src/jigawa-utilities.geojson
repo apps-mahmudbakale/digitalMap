@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.1503, 12.1051]
+      },
+      "properties": {
+        "name": "Dutse Water Treatment Plant",
+        "description": "Main source of treated water for Dutse and surrounding areas."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.1905, 12.1356]
+      },
+      "properties": {
+        "name": "Jigawa State Power Station",
+        "description": "Major power plant providing electricity to the region."
+      }
+    }
+  ]
+}

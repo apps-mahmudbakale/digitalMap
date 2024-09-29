@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.3001, 12.1109]
+      },
+      "properties": {
+        "name": "Jigawa Central Bus Station",
+        "description": "Main transportation hub in Dutse for intercity buses."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.0909, 12.2501]
+      },
+      "properties": {
+        "name": "Kano-Jigawa Highway",
+        "description": "Important highway connecting Kano and Jigawa states."
+      }
+    }
+  ]
+}

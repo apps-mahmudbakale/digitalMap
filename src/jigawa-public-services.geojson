@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.1531, 12.1025]
+      },
+      "properties": {
+        "name": "Dutse Fire Station",
+        "description": "Provides emergency fire services in the Dutse region."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.1305, 12.2051]
+      },
+      "properties": {
+        "name": "Birnin Kudu Post Office",
+        "description": "Main postal service center in the Birnin Kudu area."
+      }
+    }
+  ]
+}

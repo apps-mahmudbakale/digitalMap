@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.1511, 12.1008]  // Longitude, Latitude
+      },
+      "properties": {
+        "name": "Jigawa State General Hospital",
+        "description": "Main healthcare center in the Dutse region providing general medical services."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.1001, 12.2205]
+      },
+      "properties": {
+        "name": "Birnin Kudu Health Clinic",
+        "description": "Local clinic offering basic medical services."
+      }
+    }
+  ]
+}
